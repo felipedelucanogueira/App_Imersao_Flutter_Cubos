@@ -13,3 +13,4 @@ class Trivia extends StatelessWidget {
     );
   }
 }
+
